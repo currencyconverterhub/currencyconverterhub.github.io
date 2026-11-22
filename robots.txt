@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://currencyconverter.github.io/sitemap.xml
